@@ -10,4 +10,4 @@ app.py or gradio_app.py: Contains a Gradio interface adapted for testing the SMS
 
 The classification and prediction logic (sms_classification, sms_prediction) is written with reference to standard NLP practices from open educational resources and tutorials.
 
-Please refer to the individual code comments and markdown cells for inline attributions where applicable.
+Please refer to the individual code comments and markdown cells for inline attributions where applicable. 
